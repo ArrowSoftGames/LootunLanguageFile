@@ -1,0 +1,6 @@
+menu_bountyRerollCheck=Are you sure you want to reroll the current {0} selection?
+menu_bountyRerollConfirmation=Reroll Confirmation:
+menu_baseStatComparison=Hold Alt to compare base stats
+menu_victories=Victories
+menu_defeats=Defeats
+menu_maxItemRarity=Max Item Rarity:
