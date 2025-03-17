@@ -1,0 +1,4 @@
+sunder_passive_05_name=Regenerative Strike
+sunder_passive_05_desc={0} grants {1} of Max HP on hit
+disable_passive_05_name=Exhaustion
+disable_passive_05_desc={0} causes the target to deal {1} Less Area Damage
